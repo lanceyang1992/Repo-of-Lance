@@ -1,3 +1,3 @@
 This is my repo.
 
-I will push all code I learn here
+I will push some code I learn or write here
